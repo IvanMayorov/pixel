@@ -1,7 +1,7 @@
 Neapolis_TeslaWolt.webp
 size:2048,512
 filter:Linear,Linear
-pma:true
+pma:false
 belt
 bounds:1131,274,156,46
 rotate:90
